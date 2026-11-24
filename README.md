@@ -3,16 +3,16 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Completing my **BSc in Information Technology (Software Engineering)** 
-- 💻 Building full-stack web applications, REST APIs, and native Android apps in **Python, TypeScript, Java, and Kotlin**
-- 🔭 Currently developing **CareerOS** (automated job pipeline & Gmail/Gemini email parser) and **Subscription Guardian**
-- 📍 Based in Centurion, Gauteng, South Africa • Open to **2027 Graduate SWE, Backend & Applied AI roles**
-- 📫 Reach me at **Tsosang369@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/tsosang-mashiane/)
+### About Me
+-  Completing my **BSc in Information Technology (Software Engineering)** 
+-  Building full-stack web applications, REST APIs, and native Android apps in **Python, TypeScript, Java, and Kotlin**
+-  Currently developing **CareerOS** (automated job pipeline & Gmail/Gemini email parser) and **Subscription Guardian**
+-  Based in Centurion, Gauteng, South Africa • Open to **2027 Graduate SWE, Backend & Applied AI roles**
+-  Reach me at **Tsosang369@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/tsosang-mashiane/)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tsosang1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />

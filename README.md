@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tsosang Mashiane 👋</h1>
+<h1 align="center">Hi There, I'm Tsosang Mashiane</h1>
 <p align="center"><b>Final-Year BSc IT (Software Engineering) Student • Full-Stack & Android Developer</b></p>
 
 ---

@@ -52,4 +52,4 @@ Building useful things and learning in public.
 
 <a href="https://github.com/tsosang1">GitHub</a>
 
-<p align="center"><sub>_Tsosang_ · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>_Tsosang_ · DevOps</sub></p>

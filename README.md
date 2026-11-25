@@ -1,43 +1,55 @@
-<h1 align="center">Hi There, I'm Tsosang Mashiane</h1>
-<p align="center"><b>Final-Year BSc IT (Software Engineering) Student • Full-Stack & Android Developer</b></p>
-
----
-
-### About Me
--  Completing my **BSc in Information Technology (Software Engineering)** 
--  Building full-stack web applications, REST APIs, and native Android apps in **Python, TypeScript, Java, and Kotlin**
--  Currently developing **CareerOS** (automated job pipeline & Gmail/Gemini email parser) and **Subscription Guardian**
--  Based in Centurion, Gauteng, South Africa • Open to **2027 Graduate SWE, Backend & Applied AI roles**
--  Reach me at **Tsosang369@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/tsosang-mashiane/)
-
----
-
-###  Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks, Databases & Cloud**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-###  GitHub Stats
+## Delivery pipeline
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsosang1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsosang1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://www.gitskins.com/api/section/hero?username=tsosang1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215718602%3Fu%3D6e1ebedbf43983428d184ea0d98d0a5444bbc8e6%26v%3D4" alt="tsosang1 hero visual" />
 </p>
+
+**_Tsosang_** · Frontend or full-stack engineer
+
+## Operating principles
+
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = remote
+PUBLIC_REPOS = 5
+COMMUNITY   = 0 followers</code></pre>
+
+Building useful things and learning in public.
+
+## Uptime in motion
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tsosang1&theme=github-dark" alt="tsosang1 contribution activity" />
+</p>
+
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=tsosang1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215718602%3Fu%3D6e1ebedbf43983428d184ea0d98d0a5444bbc8e6%26v%3D4" alt="tsosang1 stats visual" />
+</p>
+
+<p><code>82 contributions</code> · <code>4 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[Accommodation-seeking-app](https://github.com/Tsosang1/Accommodation-seeking-app)** — Native Android app connecting tenants and landlords in peri-urban areas, featuring multilingual support, AI translation, and real-time chat · ⭐ 0
+- **[career-os](https://github.com/Tsosang1/career-os)** — Full-stack job application tracker and document vault with automated Gmail + Gemini API recruiter email parsing, built with Next.js 15, FastAPI, and Supabase. · ⭐ 0
+- **[ipluga](https://github.com/Tsosang1/ipluga)** — Full-stack e-commerce and marketplace web application featuring user authentication, product catalogues, shopping cart, and order management built with PHP, MySQL, and JavaScript. · ⭐ 0
+- **[sub-tracker](https://github.com/Tsosang1/sub-tracker)** — Cross-platform recurring expense tracker and forgotten-subscription detector built with Python (FastAPI), SQLite/SQL, and Java/Kotlin. · ⭐ 0
+
+## Platform toolkit
+
+<p><code>tsosang1@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=tsosang1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215718602%3Fu%3D6e1ebedbf43983428d184ea0d98d0a5444bbc8e6%26v%3D4" alt="tsosang1 stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=tsosang1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215718602%3Fu%3D6e1ebedbf43983428d184ea0d98d0a5444bbc8e6%26v%3D4" alt="tsosang1 social visual" />
+</p>
+
+<a href="https://github.com/tsosang1">GitHub</a>
+
+<p align="center"><sub>_Tsosang_ · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
